@@ -6,7 +6,7 @@
 
 
 body{
-    background-image: url('https://media1.giphy.com/media/aRZ4vTsHnyW6A/200w.gif?cid=8d8c03585bc6085c4b514d5649dbcd15');
+    background-image: url('');
     border: 1px solid black;
     background-size: 600% 600%;
 }
