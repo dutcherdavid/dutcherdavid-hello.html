@@ -1,22 +1,10 @@
 h1{
-     color: #ff3399;
+   
+   
+   color: #ff3399;
      text-align: center;
      } 
      
-h2 {
-     color: #ff3399;
-     text-align: center;
-     }
-     
-h3 {
-     color: #ff3399;
-     text-align: center;
-     }   
-
-h4 {
-     color: #ff3399;
-     text-align: center;
-     }  
 
 p {
   text-align: center;
@@ -30,7 +18,7 @@ p {
 </style>
 
 
-<title><u>THIS IS THE TITLE OF THE TAB</u></title>
+<title><u>David Dutcher</u></title>
 
 </head>
 <body>
@@ -42,20 +30,17 @@ p {
 
 
 
-         <h1>Here's an intro to this thing I made:</h1>
+         <h1>A Brief History Of Me:</h1>
+         
+         <p>
+         Hello, my name is David Dutcher. I was born in Las cruces, New Mexico on July 21st 1973. I have lived in New Mexico, California, Florida, Washington, Alaska and Vietnam.
+         I have a Bachelor's Degree in Social Work from New Mexico State University. I have an amazingly talented 16 (almost 17) year old daughter. I love hanging out with the kiddo, movies (especially horror), music (anything but country), parkour and mixed martial arts.
+         I have lived in Seattle, WA for 17 years. And now I'm a student at Seattle Central College. 
+         </p>
 
      
 
-         <h2></h2>
-
-
-
-         <h3></h3>
-
- 
-
-         <h4></h4>
-
+        
   
 
 
