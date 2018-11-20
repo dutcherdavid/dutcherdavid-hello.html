@@ -8,7 +8,7 @@
 body{
     background-image: url('https://media1.giphy.com/media/aRZ4vTsHnyW6A/200w.gif?cid=8d8c03585bc6085c4b514d5649dbcd15');
     border: 1px solid black;
-    background-size: 1000% 1000%;
+    background-size: 600% 600%;
 }
 
 
@@ -56,7 +56,7 @@ p {
 
 
 
-         <h1>About Me</h1>
+         <h1>A Brief History Of Me</h1>
          
 <p><br>
 <br>
@@ -68,11 +68,11 @@ p {
 </p>
      
 
-         <h2>Hey there, my name is "T" (A nickname I go by), and I'm a 26-year-old web design student.
-         I moved to Seattle a little over a year-and-a-half ago from Tampa, Florida.
-         I basically moved here to escape the terrible heat and giant confederate flags. I currently work as a barista in the Central District, after doing bike shop/mechanic work for five years.
-         I do cartooning in my free time, as well as plant-keeping, gardening, and cycling.
-         My goal in life is to have a career with limited human contact and a decent salary. I feel like that's everyones dream, though.</h2>
+         <h2>
+         Hello, my name is David Dutcher. I was born in Las cruces, New Mexico on July 21st 1973. I have lived in New Mexico, California, Florida, Washington, Alaska and Vietnam.
+         I have a Bachelor's Degree in Social Work from New Mexico State University. I have an amazingly talented 16 (almost 17) year old daughter. I love hanging out with the kiddo, movies (especially horror), music (anything but country), parkour and mixed martial arts.
+         I have lived in Seattle, WA for 17 years. And now I'm a student at Seattle Central College. 
+         </h2>
 
 
 
