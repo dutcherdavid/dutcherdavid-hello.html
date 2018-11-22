@@ -6,7 +6,7 @@
 
 
 body{
-    background-image: url('');
+    background-image: url('https://www.facebook.com/photo.php?fbid=10210403278311538&set=a.10202510082226569&type=3');
     border: 1px solid black;
     background-size: 600% 600%;
 }
